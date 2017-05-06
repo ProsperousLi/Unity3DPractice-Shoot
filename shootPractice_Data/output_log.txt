@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G + HD 7500M/7600M Dual Graphics (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     1482 MB
+    Driver:   15.201.1151.1008
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G + HD 7500M/7600M Dual Graphics (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     1482 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Documents\Unity3DProject\GameOne\shootPractice_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UsersPAdminisorm ass\embly: C:\UUsers\ArojnecttaGtor\Documentsr\UnictyD3DP\raojecdt\GameEngisneotdPractiocU_nitty anhaged\Umniit
+yEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Documents\Unity3DProject\GameOne\shootPractice_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Documents\Unity3DProPelt\GameOne\shootPracttfce_m ataseMabny:gCd\AssersblAdminiartr.allor\Dhicu menss\Une ti3D hojemctssGa
+meOno\ahointP C:\tUcee_DaAtmi\nanstgead\r\Documents\Unity3DProject\GameOneebly-ChhaotpPdllctithe_iata\meanagee Ass mbary-CSss)r
+p.dLoaditg Un:\ty ChilAd momaiinra
+tor\Documents\Unity3DProject\GameOne\shootPractice_Data\Managed\latsemrmy-assearply:l Cn\Uso rs\ity nhildratoriDo
+cuments\Unity3DProject\GameOne\shootPractice_Data\Managed\UnityEngine.UI.dll (thisPmlasago m s shablmyes s:)
+Useoads\ng Ci:\Utraror\Admcuments\Unity3DProject\GameOneistratPracti\eDocumenas\Unage3d\rUnictyEGngeOne\Us.dll Prahis mesDatea\s anarmde\Uni
+tyEngiae.Uingdl: Usero UAityminiilstDamain
+\Documents\Unity3DProject\GameOne\shootPractice_Data\ManagPdlatftorng ase.UI.dll into Unity Child Domain
+sembly: C:\Users\AdministrPtoat\DocumasntsmbUni:y3DC:ojUst\Ga\mdmine\shoatoPraDoticeenData\MiaynagedjeUnitGamngin\shNetPorkicng.edDl (th\isnamess\Uni iyEs hane.Ness)rk
+ing.oall (this\UsessagA minisharamor\Dscume
+ntL\aUnnitC:\UPreos\Acd\GiameOnat\or\otocumctice_eDts\atityMaDParojeUnitGameOine\s.Neotworkitnce_g.dl\Maintge Unity Child Domain
+d\UnityEngilatfoetm asseng.mll yint:\ Users\Admidnistrato
+r\Documents\Unity3DPrlatform oject\Gy:meO:\U\shrootPmianisce_Dtotr\MDonaged\UnityEnyine.Play3DPeTestst\GameOne\shoRunnecricell (Dathis messdgeUnis hangmine.Playm
+odeTLsoading C:\Usersh\Administr itor\Documents\Uesity3
+DPrLjoat\Gag eOn\Usehos\tPraictstcetoDatao\Mmentged\ninityEngioje.ct\GamoOdeTestsRunneri.ellD ianton Uni\Uy Child DoemPaiynm
+odeTestsRunner.dll into Unity Child DoPalntf
+orm assembly: C:\Users\Administrator\Documents\Unity3DProPlattGaorm mssemblOy: Cne\shrootdPinisticetoDr\a\oMumenges\Uniity3EDgPro.Aecal\ytics.edll (tPhiacticsage is Mhnagrd\Unisty
+EngLnoadnanlyt:\Ussdlls\Administrsatoe \Dochamemnts\U
+nitLoDPdroject\\GamseOneinsisotratcoire\DotaumennasgUei\UynDPtyEngctne.amnaOlytics.dll intn \shootPractUce_DytaChild Domaini
+tyEngine.Analytics.dll into Unity Child Domain
+- Comppletted reeoad,d,in n 00.1018 seononss
+PlatPola atseomm lya: C:mbsers\A:dministrator\s\AdminDocuatome\ts\Unitnys3UnirtjectPrGjemeO\GeasmeotPr\shoiot_Daact\Mcna_Data\ystnagedo\e.ydtel (this.dlels (e his maemlsage 
+is harmless)
+PlatforPlatforblyassC:\Uls: rs:\Admis\isdtinaiortDrcutoer\s\ocnuty3nDs\roniecy3DPareOje\sh\GamPrOne\sce_DaPta\Mtice_Da\Sa\Mana.ded\Systes .dlls ge his  marmsage )s harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.975151 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: afb4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.876857 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 528.
+Total: 0.500538 ms (FindLiveObjects: 0.080453 ms CreateObjectMapping: 0.032397 ms MarkObjects: 0.356910 ms  DeleteObjects: 0.028077 ms)
+
