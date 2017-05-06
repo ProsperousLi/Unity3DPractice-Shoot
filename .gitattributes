@@ -1,1 +1,3 @@
-*.ASP linguist-language=C++ and Unity
+*.asset linguist-language=C++ and Unity
+
+*.meta linguist-language=C++ and Unity
